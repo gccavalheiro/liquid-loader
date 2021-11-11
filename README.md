@@ -19,7 +19,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/gccavalheiro/travel-next
+$ git clone https://github.com/gccavalheiro/liquid-loader
 
 # Entre na pasta
 $ cd liquid-loader
